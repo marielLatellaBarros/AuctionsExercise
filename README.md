@@ -1,5 +1,7 @@
-# AuctionsExercise
+# Auctions Exercise
 Hogeschool PXL - Exercise Auctions
+
+Fork this project to get started!
 
 Part 1: Unit testing
 
